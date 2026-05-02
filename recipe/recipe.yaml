@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.4.3"
+  version: "1.4.4"
 
 package:
   name: botsay
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/xyproto/botsay/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 76edf0115d9659af71497363684513740c9c71cc1b54f05a4c7ac3a3eda20a65
+  sha256: f3d726d7b3609f40e7244eca29efe2e6f0feb5a0d4f472681984df376637c3d7
 
 build:
   number: 0
